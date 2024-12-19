@@ -23,7 +23,7 @@ public class test : MonoBehaviour
     }
     void OntestRoad()
     {
-        decimal.Parse(Console.ReadLine());
+        //decimal.Parse(Console.ReadLine());
 
     }
     //[SerializeField]
